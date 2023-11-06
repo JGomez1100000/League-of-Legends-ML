@@ -18,22 +18,22 @@ st.set_page_config(page_title='League of Legends', page_icon=':space_invader:', 
 st.set_option('deprecation.showPyplotGlobalUse', False)
 
 #--------------------Imagenes----------------------------#
-image_title = Image.open(r'C:\Users\Javi\Desktop\Bootcamp\Proyecto_Final\img\LoL_Logo_Rendered_LARGE.png')
-image_riot_logo = Image.open(r'C:\Users\Javi\Desktop\Bootcamp\Proyecto_Final\img\riot_logo.png')
-image_lol_logo = Image.open(r'C:\Users\Javi\Desktop\Bootcamp\Proyecto_Final\img\lol_logo.png')
-image_region = Image.open(r'C:\Users\Javi\Desktop\Bootcamp\Proyecto_Final\img\eu2-map.jpg')
+image_title = Image.open(r'C:\Users\Javi\Desktop\Cloned_repo\League-of-Legends-ML\img\other\LoL_Logo_Rendered_LARGE.png')
+image_riot_logo = Image.open(r'C:\Users\Javi\Desktop\Cloned_repo\League-of-Legends-ML\img\other\riot_logo.png')
+image_lol_logo = Image.open(r'C:\Users\Javi\Desktop\Cloned_repo\League-of-Legends-ML\img\other\eu2-map.jpg')
+image_region = Image.open(r'C:\Users\Javi\Desktop\Cloned_repo\League-of-Legends-ML\img\other\eu2-map.jpg')
 image_play = 'https://brand.riotgames.com/static/5d967107520142f4f9cf8798900614b4/ed70a/04_MagicFundamentals_2.webp'
-image_map = Image.open(r'C:\Users\Javi\Desktop\Bootcamp\Proyecto_Final\img\Summoner%27s_Rift_Minimap.webp')
-image_map2 = Image.open(r'C:\Users\Javi\Desktop\Bootcamp\Proyecto_Final\img\Minimap.jpg')
-legal = Image.open(r'C:\Users\Javi\Desktop\Bootcamp\Proyecto_Final\img\legal.png')
-players_league = Image.open(r'C:\Users\Javi\Desktop\Bootcamp\Proyecto_Final\img\players_league.png')
+image_map = Image.open(r'C:\Users\Javi\Desktop\Cloned_repo\League-of-Legends-ML\img\other\Summoner%27s_Rift_Minimap.webp')
+image_map2 = Image.open(r'C:\Users\Javi\Desktop\Cloned_repo\League-of-Legends-ML\img\other\Minimap.jpg')
+legal = Image.open(r'C:\Users\Javi\Desktop\Cloned_repo\League-of-Legends-ML\img\other\legal.png')
+players_league = Image.open(r'C:\Users\Javi\Desktop\Cloned_repo\League-of-Legends-ML\img\other\players_league.png')
 
 # Graph
-average_players = Image.open(r'C:\Users\Javi\Desktop\Bootcamp\Proyecto_Final\img\Number-of-monthly-LoL-players-per-years.png.webp')
+# average_players = Image.open(r'C:\Users\Javi\Desktop\Bootcamp\Proyecto_Final\img\Number-of-monthly-LoL-players-per-years.png.webp')
 
 # Champs
-champ_riven = Image.open(r'C:\Users\Javi\Desktop\Bootcamp\Proyecto_Final\img\champions\riven.png')
-champ_ryze = Image.open(r'C:\Users\Javi\Desktop\Bootcamp\Proyecto_Final\img\champions\ryze.png')
+champ_riven = Image.open(r'C:\Users\Javi\Desktop\Cloned_repo\League-of-Legends-ML\img\champions\riven.png')
+champ_ryze = Image.open(r'C:\Users\Javi\Desktop\Cloned_repo\League-of-Legends-ML\img\champions\ryze.png')
 # Leagues
 
 image_iron = Image.open(r'C:\Users\Javi\Desktop\Bootcamp\Proyecto_Final\img\leagues\iron.png')
