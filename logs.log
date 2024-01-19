@@ -8786,3 +8786,13 @@ Columns (2) have mixed types. Specify dtype option on import or set low_memory=F
 Columns (2) have mixed types. Specify dtype option on import or set low_memory=False.
 
 
+2023-11-06 13:46:22,520:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-11-06 13:46:22,520:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-11-06 13:46:22,520:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-11-06 13:46:22,520:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-11-06 13:46:23,890:WARNING:
+'prophet' is a soft dependency and not included in the pycaret installation. Please run: `pip install prophet` to install.
